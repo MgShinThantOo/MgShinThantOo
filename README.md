@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/shinthantoo1998" target="blank"><img src="https://img.shields.io/twitter/follow/shinthantoo1998?logo=twitter&style=for-the-badge" alt="shinthantoo1998" /></a> </p>
 
-- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **https://www.facebook.com/shinthantoo.oo.79/**
 
